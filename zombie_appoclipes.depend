@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1620363882 source:c:\users\hp-pc\desktop\test\hello\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<dos.h>
+	<cstdlib>
+	<ctime>
+
+1620299562 source:c:\users\hp-pc\desktop\test\hello\cergo.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<iostream>
+
